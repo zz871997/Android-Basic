@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practice1_fbLoginLayout</string>
+    <string name="sign_up">Sign up with Facebook</string>
+    <string name="login">Log In</string>
+    <string name="user_name">Email or Phone number</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot Password?</string>
+</resources>
